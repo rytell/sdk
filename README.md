@@ -1,5 +1,5 @@
-# Pangolin SDK
-This repo contains tools for developing with [Pangolin](pangolin.exchange).
+# Rytell SDK
+This repo contains tools for developing with [Rytell](rytell.exchange).
 
 ## Running
 This project uses standard npm and yarn workflows.

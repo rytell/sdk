@@ -1,16 +1,16 @@
 {
-  "name": "@pangolindex/sdk",
+  "name": "@rytell/sdk",
   "license": "MIT",
-  "version": "1.1.0",
-  "description": "🛠 An SDK for building applications on top of Pangolin.",
+  "version": "1.0.3",
+  "description": "🛠 An SDK for building applications on top of Rytell.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/pangolindex/sdk",
+  "repository": "https://github.com/rytell/sdk",
   "keywords": [
-    "pangolin",
+    "rytell",
     "avalanche"
   ],
   "module": "dist/sdk.esm.js",

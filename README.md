@@ -1,5 +1,5 @@
 # Rytell SDK
-This repo contains tools for developing with [Rytell](rytell.exchange).
+This repo contains tools for developing with [Rytell](rytell.io).
 
 ## Running
 This project uses standard npm and yarn workflows.
